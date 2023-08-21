@@ -1,3 +1,8 @@
 .sapUiForm .sapMLabel {
     font-weight: bold !important;
 }
+
+.sapUiLocalBusyIndicatorShowContainer>div.sapUiLocalBusyIndicatorAnimation {
+    background-color:none;
+    box-shadow:none;
+}
