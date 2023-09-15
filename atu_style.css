@@ -3,6 +3,6 @@
 }
 
 .sapUiLocalBusyIndicatorShowContainer>div.sapUiLocalBusyIndicatorAnimation {
-    background-color:none;
-    box-shadow:none;
+    background-color: none !important;
+    box-shadow: none !important;
 }
